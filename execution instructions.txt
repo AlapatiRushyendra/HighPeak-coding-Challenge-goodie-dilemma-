@@ -1,0 +1,15 @@
+Instructions to execute the code:
+
+The starting block of code is the input of goodies and their prices
+followed by the execution part(output)
+
+Once you run the code, 
+it first asks for the number of employees to decide for the number of goodies
+
+that is the only input we give
+
+based on the number of employees, the code selects those many number of goodies
+randomly from the available goodies.
+
+Then the goodie with highest price and lowest price are found and 
+difference of those two is obtained and displayed.
